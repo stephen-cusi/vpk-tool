@@ -1,9 +1,9 @@
 # vpk-tool
 A vpk decompression and packaging tool for the Android platform.w.i.p
 
-[Vpk official page](https://wikipedia.org/wiki/Source_(game_engine))
+[Vpk official page](https://developer.valvesoftware.com/wiki/VPK)
 
-[Python pip module of vpk](https://wikipedia.org/wiki/Source_(game_engine))
+[Python pip module of vpk](https://pypi.org/project/vpk/)
 
 
 # Current tasks
